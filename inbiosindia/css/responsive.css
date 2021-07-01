@@ -1,0 +1,88 @@
+@media only screen and (min-width:480px) and (max-width: 767px){
+.top-bar-angle:before{border-right:none !important; border-left:none !important;}
+.top-bar-angle:after{width:100% !important;}
+.top-bar-event p{text-align: center;}
+.top-bar-social-icon ul{text-align: center;}
+.logo {text-align: center;}
+.call-type {display: none;}
+.email-type {    display: none;}
+.qoute-type a{width: 100%;}
+section.navigation{padding: 3px 0px 30px 0;}
+.mean-container a.meanmenu-reveal{z-index: 99999999999;}
+.slide {height: 200px;}
+section.simple-line span{font-size: 28px;}
+.welcome-section{    padding: 50px 0px 25px 0;}
+.scrub-typhus {padding: 0 0 0 0;}
+.scrub-text h1{margin: 57px 0px 14px -1px; font-size: 32px;}
+.heading-new{width: 100%;  margin-bottom: 0;}
+div#owl-demo-partner .item {text-align: center;}
+section.our-partner{    padding: 0 0 30px 0;}
+button.custom-btn{width: 100%;}
+.quote-section .inner-section{ padding: 20px 18px;}
+.footer-column {margin-bottom: 30px;}
+.address-type p{width: 100%;}
+.main-footer .widgets-section{padding-bottom: 0;}
+.scrub-text h3{padding-bottom: 10px; padding-top: 60px;}
+.choose_us_area .choose_us_row .choose_us_content{    padding: 36px 25px;}
+.cover-product{width: 100%;}
+.zoom-effect img{margin-bottom: 15px;}
+.inner-wrap textarea{height: 125px;}
+.sitemap-list {margin-bottom: 30px;}
+section.sitemap{padding: 50px 0 40px 0;}
+.contact-info-text{padding-left: 48px;}
+.contact-page-sec{padding: 50px 0 0 0;}
+.our-three {width: 100%;}
+.inner-box{float: left; width: 100%; margin-bottom: 10px;}
+.logo img {position: relative; top: 10px;}
+.about_us_h2 h2 {margin-top: 63px;   font-size: 32px;}
+.table-type {padding: 30px 0px;}
+.bg-color-table {width: 100%; float: left;    background: #f1f1f1;    padding: 12px;    margin-bottom: 35px;    width: 100%;    float: left;    padding-bottom: 70px;}
+.table-type { padding: 0px 0px;}
+}
+@media only screen and (max-width: 479px){
+.top-bar-angle:before{border-right:none !important; border-left:none !important;}
+.top-bar-angle:after{width:100% !important;}
+.top-bar-event p{text-align: center;}
+.top-bar-social-icon ul{text-align: center;}
+.logo {text-align: center;}
+.call-type {display: none;}
+.email-type {    display: none;}
+.qoute-type a{width: 100%;}
+section.navigation{padding: 3px 0px 30px 0;}
+.mean-container a.meanmenu-reveal{z-index: 99999999999;}
+.slide {height:136px;}
+section.simple-line span{font-size: 28px;}
+.welcome-section{    padding: 50px 0px 25px 0;}
+.scrub-typhus {padding: 0 0 0 0;}
+.scrub-text h1{margin: 57px 0px 14px -1px; font-size: 22px;}
+.heading-new{width: 100%;  margin-bottom: 0;}
+div#owl-demo-partner .item {text-align: center;}
+section.our-partner{    padding: 0 0 30px 0;}
+button.custom-btn{width: 100%;}
+.quote-section .inner-section{ padding: 20px 18px;}
+.footer-column {margin-bottom: 30px;}
+.address-type p{width: 100%;}
+.main-footer .widgets-section{padding-bottom: 0;}
+.scrub-text h3{padding-bottom: 10px; padding-top: 60px;}
+.choose_us_area .choose_us_row .choose_us_content{    padding: 36px 25px;}
+.cover-product{width: 100%;}
+.zoom-effect img{margin-bottom: 15px;}
+.inner-wrap textarea{height: 125px;}
+.sitemap-list {margin-bottom: 30px;}
+section.sitemap{padding: 50px 0 40px 0;}
+.contact-info-text{padding-left: 48px;}
+.contact-page-sec{padding: 50px 0 0 0;}
+.our-three {width: 100%;}
+.inner-box{float: left; width: 100%; margin-bottom: 10px;}
+.logo img {position: relative; top: 10px;}
+.services-para ul{margin-left: 0;}
+.sec-title h5{font-size: 30px;}
+.quote-section .content h3{font-size: 25px;}
+.scrub-text h3{font-size: 25px;}
+.company-profile-ul li{margin-bottom: 10px;}
+.service-two-area {padding: 0 0 50px 0;}
+.cover-product-this h3{line-height: 30px;}
+.about_us_h2 h2 {margin-top: 59px; font-size: 27px;}
+.bg-color-table {width: 100%; float: left; background: #f1f1f1;    padding: 12px;    margin-bottom: 35px; width: 100%; float: left; padding-bottom: 70px;}
+.table-type { padding: 0px 0px;}
+}
